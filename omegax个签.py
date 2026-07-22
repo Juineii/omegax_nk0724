@@ -21,7 +21,7 @@ CHECK_INTERVAL = 10
 PUSH_INTERVAL = 60
 
 # GitHub 配置（请修改为您自己的仓库信息）
-GITHUB_REPO = "Juineii/allhours_ns0624"    # 例如 "Juineii/ive_k40625"
+GITHUB_REPO = "Juineii/omegax_nk0724"    # 例如 "Juineii/ive_k40625"
 GITHUB_BRANCH = "main"                     # 分支名
 
 # ================== 目录设置 ==================
